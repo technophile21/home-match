@@ -1,3 +1,5 @@
+Note: requirements.txt is updated for langchain 0.1.x  and not as it is used as specified. 
+
 All steps for the project code have been clearly marked using a markdown. Each step is self contained section for the notebook which can be expanded and collapsed.
 
 Cells which are not needed to be run are marked with comment "Do not need to run this cell"
